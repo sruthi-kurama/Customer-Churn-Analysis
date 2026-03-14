@@ -73,4 +73,5 @@ This project analyzes telecom customer data to understand why customers leave th
 ---
 
 **Created by:** Sruthi Kurama
+
 **MAIL** kuramasruthi2006@gmail.com
